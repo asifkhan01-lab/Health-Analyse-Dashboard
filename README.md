@@ -13,3 +13,4 @@ Patient counts tracked monthly (2014–2022)
 Breakdown of obsession types & compulsion types
 Demographic insights (ethnicity & gender)
 Comparison of patient counts vs. obsession severity (Y-BOCS score)
+<img width="1200" height="672" alt="Health dashboard" src="https://github.com/user-attachments/assets/996b8d00-52fe-40a3-a256-6d09ac669e6c" />
